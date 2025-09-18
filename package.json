@@ -1,7 +1,9 @@
 {
-  "name": "sterling_backend",
-  "version": "0.0.0",
-  "private": true,
+  "name": "sterline_backend",
+  "version": "1.0.0",
+  "description": "Backend server with MongoDB connection",
+  "author": "Santhosh",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "build": "echo 'No build step needed for backend'",
